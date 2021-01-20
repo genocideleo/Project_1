@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://caleb:calebztsa1@cluster0.sg0va.mongodb.net/Project_1?retryWrites=true&w=majority",
+    "jwtSecret": "ediconeg",
+    "githubToken": "210f38afd77a46612f88fc93541b195bce2c6c49"
+  }
